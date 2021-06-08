@@ -1495,367 +1495,367 @@
 921,62,E,31/08/2019 11:06,31/08/2019 16:46,TRUE,Pilot,Class B Avionics Tech
 921,47,F,31/08/2019 11:06,31/08/2019 16:28,TRUE,Pilot,Class A Tech
 910,42,A,31/08/2019 16:31,31/08/2019 17:42,TRUE,Class A Tech,Class A Electricity Tech
-801,24,A,01/12/2019 10:38,02/12/2019 16:51,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-941,21,A,01/12/2019 10:49,01/12/2019 19:51,TRUE,Pilot,Class A Heli Struct Sys Tech
-967,11,E,01/12/2019 12:29,01/12/2019 13:13,TRUE,Class A Tech,Class A Officer
-910,62,1,01/12/2019 13:02,01/12/2019 21:44,TRUE,Class B Avionics Tech,Class B Avionics Tech
-921,45,A,01/12/2019 13:17,01/12/2019 13:26,TRUE,Class A Heli Struct Sys Tech,Class A Tech
-840,15,A,01/12/2019 14:11,01/12/2019 19:33,TRUE,Pilot,Class A Officer
-905,11,E,01/12/2019 14:29,01/12/2019 14:31,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-842,44,C,01/12/2019 16:33,01/12/2019 16:37,TRUE,Class A Electricity Tech,Class A Electricity Tech
-935,90,W,01/12/2019 16:33,04/12/2019 16:26,TRUE,Class A Heli Struct Sys Tech,Class B Flight Control Tech
-967,21,C,01/12/2019 18:37,01/12/2019 19:50,TRUE,Pilot,Class A Heli Struct Sys Tech
-804,21,C,01/12/2019 18:41,04/12/2019 13:51,TRUE,Pilot,Class A Heli Struct Sys Tech
-830,63,A,01/12/2019 19:36,01/12/2019 19:37,FALSE,Class B Avionics Tech,Class B Avionics Tech
-845,74,5,01/12/2019 20:21,02/12/2019 9:34,TRUE,Pilot,Class B Avionics Tech
-845,11,E,01/12/2019 20:21,02/12/2019 17:04,TRUE,Pilot,Class A Heli Struct Sys Tech
-842,71,E,01/12/2019 20:53,01/12/2019 20:54,TRUE,Class B Avionics Tech,Class B Avionics Tech
-956,74,5,01/12/2019 21:36,02/12/2019 10:35,FALSE,Pilot,Class B Avionics Tech
-845,74,P,01/12/2019 22:16,02/12/2019 10:41,FALSE,Pilot,Class B Avionics Tech
-828,44,A,01/12/2019 23:21,02/12/2019 9:08,TRUE,Pilot,Class A Electricity Tech
-966,12,A,01/12/2019 23:56,02/12/2019 9:43,TRUE,Pilot,Class A Tech
-941,11,J,02/12/2019 8:28,02/12/2019 14:44,TRUE,Class A Armament Tech,Class A Tech
-956,44,A,02/12/2019 9:10,02/12/2019 9:11,TRUE,Class A Electricity Tech,Class A Electricity Tech
-840,13,B,02/12/2019 9:21,02/12/2019 11:39,TRUE,Pilot,Class A Airborne Mechanic
-804,11,G,02/12/2019 9:34,03/12/2019 22:14,TRUE,Class A Tech,Class A Tech
-804,22,W,02/12/2019 11:01,02/12/2019 14:33,TRUE,Class A Electricity Tech,Class B Engine Tech
-941,75,K,02/12/2019 11:47,02/12/2019 11:56,TRUE,Class A Tech,Class A Tech
-935,47,F,02/12/2019 12:46,03/12/2019 13:43,TRUE,Pilot,Class A Electricity Tech
-804,26,C,02/12/2019 13:34,04/12/2019 11:00,TRUE,Class A Tech,Class A Tech
-804,11,E,02/12/2019 13:35,03/12/2019 13:37,TRUE,Class A Tech,Class A Tech
-956,22,U,02/12/2019 13:53,02/12/2019 14:05,FALSE,Class A Tech,Class A Heli Struct Sys Tech
-830,15,B,02/12/2019 14:17,03/12/2019 14:34,TRUE,Class A Electricity Tech,Class A Heli Struct Sys Tech
-834,75,C,02/12/2019 15:51,02/12/2019 21:48,TRUE,Pilot,Class A Armament Tech
-801,44,B,02/12/2019 16:00,02/12/2019 16:03,TRUE,Class A Electricity Tech,Class A Electricity Tech
-910,74,N,02/12/2019 18:02,02/12/2019 18:03,TRUE,Class B Avionics Tech,Class B Avionics Tech
-910,74,3,02/12/2019 19:21,02/12/2019 21:40,TRUE,Pilot,Class A Officer
-941,74,D,02/12/2019 21:58,03/12/2019 9:41,FALSE,Pilot,Class B Avionics Tech
-941,26,H,02/12/2019 21:58,03/12/2019 15:04,TRUE,Pilot,Class A Officer
-905,74,F,02/12/2019 22:46,03/12/2019 11:32,TRUE,Pilot,Class B Avionics Tech
-956,74,3,03/12/2019 1:08,03/12/2019 13:58,TRUE,Class B Avionics Tech,Class B Avionics Tech
-941,90,A,03/12/2019 9:31,03/12/2019 9:44,TRUE,Class A Tech,Class B Flight Control Tech
-815,11,E,03/12/2019 9:45,04/12/2019 16:10,TRUE,Class B Structurer Tech,Class A Heli Struct Sys Tech
-924,13,B,03/12/2019 10:38,03/12/2019 10:40,TRUE,Class A Tech,Class A Tech
-840,14,H,03/12/2019 11:56,03/12/2019 19:33,FALSE,Pilot,Class B Flight Control Tech
-921,26,F,03/12/2019 12:25,03/12/2019 21:19,TRUE,Class A Electricity Tech,Class A Electricity Tech
-910,74,N,03/12/2019 14:03,03/12/2019 17:58,FALSE,Class B Avionics Tech,Class B Avionics Tech
-842,71,G,03/12/2019 14:31,30/01/2020 11:43,TRUE,Class B Avionics Tech,Class B Avionics Tech
-924,24,1,03/12/2019 15:12,04/12/2019 14:58,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-815,11,G,03/12/2019 15:35,04/12/2019 19:22,TRUE,Class A Tech,Class A Tech
-941,75,K,03/12/2019 15:40,03/12/2019 19:40,TRUE,Class A Tech,Class A Armament Tech
-830,62,E,03/12/2019 16:11,03/12/2019 18:53,TRUE,Pilot,Class B Avionics Tech
-830,13,N,03/12/2019 16:11,03/12/2019 20:13,TRUE,Pilot,Class A Tech
-956,74,3,03/12/2019 18:07,03/12/2019 21:24,FALSE,Pilot,Class B Avionics Tech
-828,15,B,03/12/2019 18:39,29/12/2019 9:09,TRUE,Pilot,Class A Heli Struct Sys Tech
-961,74,3,03/12/2019 19:06,03/12/2019 22:18,TRUE,Pilot,Class B Avionics Tech
-961,12,B,03/12/2019 19:06,03/12/2019 22:31,TRUE,Pilot,Class A Electricity Tech
-961,74,E,03/12/2019 19:06,03/12/2019 22:17,TRUE,Pilot,Class B Avionics Tech
-910,74,N,03/12/2019 19:11,06/12/2019 16:41,FALSE,Pilot,Class B Avionics Tech
-956,63,A,03/12/2019 19:45,03/12/2019 21:29,FALSE,Pilot,Class B Avionics Tech
-910,90,A,03/12/2019 20:12,04/12/2019 10:51,FALSE,Class A Electricity Tech,Class A Electricity Tech
-941,13,C,03/12/2019 21:15,03/12/2019 21:27,TRUE,Class A Heli Struct Sys Tech,Class A Tech
-967,76,A,03/12/2019 23:51,04/12/2019 11:34,TRUE,Pilot,Class B Avionics Tech
-967,75,F,03/12/2019 23:51,04/12/2019 10:29,TRUE,Pilot,Class A Armament Tech
-967,74,3,03/12/2019 23:51,04/12/2019 11:30,TRUE,Pilot,Class B Avionics Tech
-905,14,H,03/12/2019 23:56,04/12/2019 15:18,TRUE,Pilot,Class A Electricity Tech
-905,62,F,03/12/2019 23:56,04/12/2019 10:25,TRUE,Pilot,Class B Avionics Tech
-845,11,G,04/12/2019 10:18,04/12/2019 15:40,TRUE,Class A Tech,Class A Tech
-815,16,W,04/12/2019 10:27,04/12/2019 14:19,TRUE,Class A Electricity Tech,Class A Electricity Tech
-967,47,F,04/12/2019 10:29,04/12/2019 15:04,TRUE,Class A Tech,Class A Tech
-905,75,C,04/12/2019 10:32,04/12/2019 20:37,TRUE,Class A Tech,Class A Tech
-961,26,C,04/12/2019 11:02,04/12/2019 11:03,TRUE,Class A Airborne Mechanic,Class A Airborne Mechanic
-966,11,E,04/12/2019 11:08,04/12/2019 11:09,TRUE,Class A Tech,Class A Tech
-832,11,G,04/12/2019 13:01,04/12/2019 20:10,TRUE,Class A Tech,Class A Tech
-801,24,A,04/12/2019 13:23,05/12/2019 13:33,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-905,22,J,04/12/2019 14:10,04/12/2019 14:18,TRUE,Class B Engine Tech,Class B Engine Tech
-905,14,J,04/12/2019 15:13,04/12/2019 17:31,TRUE,Class A Electricity Tech,Class A Electricity Tech
-905,13,B,04/12/2019 16:08,04/12/2019 18:27,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-935,90,W,04/12/2019 16:20,04/12/2019 16:21,TRUE,Class B Flight Control Tech,Class B Flight Control Tech
-815,90,W,04/12/2019 16:54,04/12/2019 16:57,TRUE,Class B Flight Control Tech,Class A Electricity Tech
-830,62,E,04/12/2019 17:47,04/12/2019 17:48,TRUE,Class B Avionics Tech,Class B Avionics Tech
-804,74,I,04/12/2019 18:31,05/12/2019 11:37,TRUE,Pilot,Class B Avionics Tech
-956,46,F,04/12/2019 18:51,05/12/2019 11:43,FALSE,Pilot,Class A Heli Struct Sys Tech
-905,75,B,04/12/2019 20:25,04/12/2019 20:41,TRUE,Class A Tech,Class A Tech
-961,51,A,04/12/2019 21:46,05/12/2019 9:20,TRUE,Pilot,Class A Electricity Tech
-961,74,5,04/12/2019 21:46,05/12/2019 14:07,TRUE,Pilot,Class B Avionics Tech
-961,22,0,04/12/2019 21:46,05/12/2019 9:09,TRUE,Pilot,Class B Engine Tech
-830,74,F,04/12/2019 22:28,04/12/2019 22:29,TRUE,Class B Avionics Tech,Class B Avionics Tech
-967,74,4,04/12/2019 22:51,05/12/2019 9:44,TRUE,Pilot,Class B Avionics Tech
-941,47,V,05/12/2019 9:50,05/12/2019 9:51,TRUE,Class A Electricity Tech,Class A Electricity Tech
-961,74,E,05/12/2019 11:00,05/12/2019 14:03,TRUE,Class B Avionics Tech,Class B Avionics Tech
-921,15,A,05/12/2019 11:59,08/12/2019 14:51,TRUE,Class B Mechanic,Class B Mechanic
-935,11,E,05/12/2019 14:01,08/12/2019 20:25,TRUE,Class A Airborne Mechanic,Class A Tech
-834,11,E,05/12/2019 15:42,06/12/2019 12:55,TRUE,Class A Electricity Tech,Class B Structurer Tech
-910,74,1,05/12/2019 20:24,05/12/2019 20:25,TRUE,Class B Avionics Tech,Class B Avionics Tech
-910,74,2,05/12/2019 20:42,05/12/2019 20:43,TRUE,Class B Avionics Tech,Class B Avionics Tech
-840,71,G,06/12/2019 9:09,06/12/2019 9:10,TRUE,Class B Avionics Tech,Class B Avionics Tech
-840,22,0,06/12/2019 10:56,06/12/2019 16:27,TRUE,Class B Engine Tech,Class B Engine Tech
-830,69,E,08/12/2019 1:51,08/12/2019 7:53,TRUE,Pilot,Class A Armament Tech
-832,69,E,08/12/2019 1:51,08/12/2019 2:53,TRUE,Pilot,Class A Armament Tech
-910,16,A,08/12/2019 2:11,14/01/2020 14:29,TRUE,Pilot,Class A Officer
-910,90,A,08/12/2019 2:11,08/12/2019 16:09,FALSE,Pilot,Class B Flight Control Tech
-828,14,G,08/12/2019 8:33,18/12/2019 16:57,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-961,47,F,08/12/2019 11:32,08/12/2019 14:34,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-935,26,C,08/12/2019 12:00,08/12/2019 12:01,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-845,49,B,08/12/2019 13:25,08/12/2019 20:32,TRUE,Class A Electricity Tech,Class A Electricity Tech
-845,74,G,08/12/2019 14:20,08/12/2019 16:12,TRUE,Class A Electricity Tech,Class B Avionics Tech
-801,26,G,08/12/2019 14:33,08/12/2019 20:16,TRUE,Class A Airborne Mechanic,Class A Electricity Tech
-801,74,F,08/12/2019 14:36,08/12/2019 14:56,TRUE,Class A Airborne Mechanic,Class B Avionics Tech
-967,22,1,08/12/2019 14:47,09/12/2019 12:05,TRUE,Class A Electricity Tech,Class A Electricity Tech
-801,11,W,08/12/2019 20:23,08/12/2019 20:24,TRUE,Class A Electricity Tech,Class A Electricity Tech
-910,13,C,09/12/2019 9:45,07/01/2020 13:43,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-910,26,A,09/12/2019 11:22,14/01/2020 15:39,TRUE,Class A Electricity Tech,Class A Tech
-830,11,W,09/12/2019 12:13,09/12/2019 17:24,TRUE,Class A Electricity Tech,Class A Electricity Tech
-956,41,A,09/12/2019 12:34,09/12/2019 15:54,TRUE,Pilot,Class A Electricity Tech
-941,46,F,09/12/2019 12:35,09/12/2019 18:08,TRUE,Pilot,Class A Tech
-956,74,1,09/12/2019 12:35,10/12/2019 15:06,TRUE,Pilot,Class B Avionics Tech
-941,74,1,09/12/2019 12:36,09/12/2019 16:12,TRUE,Pilot,Class B Avionics Tech
-966,22,V,09/12/2019 14:26,09/12/2019 15:30,TRUE,Class A Electricity Tech,Class A Electricity Tech
-966,44,A,09/12/2019 16:04,09/12/2019 16:40,TRUE,Class A Electricity Tech,Class A Electricity Tech
-910,90,W,09/12/2019 16:10,17/12/2019 17:05,TRUE,Class B Flight Control Tech,Class B Flight Control Tech
-966,11,C,09/12/2019 16:23,10/12/2019 14:35,TRUE,Class A Heli Struct Sys Tech,Class A Officer
-910,44,B,09/12/2019 16:26,09/12/2019 16:27,TRUE,Class A Electricity Tech,Class A Electricity Tech
-910,90,A,09/12/2019 17:15,07/01/2020 11:17,TRUE,Class A Electricity Tech,Class A Officer
-830,44,B,09/12/2019 17:25,09/12/2019 17:31,TRUE,Class A Electricity Tech,Class A Electricity Tech
-830,44,C,09/12/2019 17:32,09/12/2019 17:38,TRUE,Class A Electricity Tech,Class A Electricity Tech
-905,75,A,09/12/2019 18:26,09/12/2019 18:49,TRUE,Pilot,Class A Tech
-845,12,A,09/12/2019 20:51,09/12/2019 21:31,TRUE,Pilot,Class A Officer
-845,46,J,09/12/2019 20:51,09/12/2019 21:31,TRUE,Pilot,Class A Officer
-834,44,C,09/12/2019 21:52,09/12/2019 21:55,FALSE,Class A Electricity Tech,Class A Electricity Tech
-815,65,A,09/12/2019 22:35,10/12/2019 9:40,TRUE,Class B Avionics Tech,Class B Avionics Tech
-845,11,G,09/12/2019 23:05,10/12/2019 15:16,TRUE,Class A Heli Struct Sys Tech,Class A Tech
-905,75,A,09/12/2019 23:46,10/12/2019 10:10,TRUE,Pilot,Class A Tech
-961,75,A,10/12/2019 0:01,10/12/2019 1:22,TRUE,Pilot,Class A Tech
-961,16,A,10/12/2019 0:01,10/12/2019 17:57,TRUE,Pilot,Class A Officer
-924,75,A,10/12/2019 0:01,10/12/2019 1:18,TRUE,Pilot,Class A Tech
-961,44,B,10/12/2019 0:01,10/12/2019 11:51,TRUE,Pilot,Class A Electricity Tech
-967,71,G,10/12/2019 0:37,10/12/2019 11:55,TRUE,Pilot,Class B Avionics Tech
-842,0,0,10/12/2019 5:44,27/01/2020 19:10,TRUE,Class A Heli Struct Sys Tech,Class A Tech
-935,45,A,10/12/2019 10:11,10/12/2019 15:53,TRUE,Pilot,Class A Airborne Mechanic
-828,75,B,10/12/2019 11:49,10/12/2019 13:39,TRUE,Class A Tech,Class A Tech
-956,11,E,10/12/2019 14:26,10/12/2019 17:33,TRUE,Class A Tech,Class A Tech
-961,74,E,10/12/2019 14:26,10/12/2019 14:28,TRUE,Class B Avionics Tech,Class B Avionics Tech
-966,11,M,10/12/2019 14:39,10/12/2019 14:40,TRUE,Class A Tech,Class A Tech
-956,51,A,10/12/2019 14:44,10/12/2019 15:11,TRUE,Class A Electricity Tech,Class A Electricity Tech
-905,75,A,10/12/2019 14:49,10/12/2019 15:02,TRUE,Class A Armament Tech,Class A Armament Tech
-910,22,C,10/12/2019 16:36,12/12/2019 10:01,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-832,11,L,10/12/2019 17:48,10/12/2019 18:46,TRUE,Class A Heli Struct Sys Tech,Class A Tech
-837,76,D,10/12/2019 19:05,11/12/2019 19:52,TRUE,Pilot,Class B Avionics Tech
-837,62,E,10/12/2019 19:07,11/12/2019 2:27,TRUE,Pilot,Class B Avionics Tech
-837,44,B,11/12/2019 0:50,11/12/2019 9:38,TRUE,Class A Electricity Tech,Class A Electricity Tech
-935,62,F,11/12/2019 10:31,11/12/2019 14:07,TRUE,Pilot,Class B Avionics Tech
-935,14,M,11/12/2019 10:31,11/12/2019 16:48,TRUE,Pilot,Class A Heli Struct Sys Tech
-935,14,R,11/12/2019 10:31,11/12/2019 16:38,TRUE,Pilot,Class A Heli Struct Sys Tech
-905,44,B,11/12/2019 14:22,11/12/2019 14:26,TRUE,Class A Electricity Tech,Class A Electricity Tech
-935,13,D,11/12/2019 14:44,11/12/2019 14:47,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-840,15,A,11/12/2019 15:08,12/12/2019 15:18,TRUE,Class A Tech,Class B Structurer Tech
-967,12,0,11/12/2019 15:21,11/12/2019 16:05,TRUE,Pilot,Class A Officer
-845,76,A,11/12/2019 16:13,11/12/2019 19:43,TRUE,Class A Tech,Class B Avionics Tech
-910,13,D,11/12/2019 16:14,18/12/2019 15:28,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-924,46,D,11/12/2019 17:51,18/12/2019 10:21,TRUE,Pilot,Class A Electricity Tech
-804,74,L,11/12/2019 18:51,12/12/2019 10:59,FALSE,Pilot,Class B Avionics Tech
-837,76,D,11/12/2019 19:54,11/12/2019 19:56,TRUE,Class B Avionics Tech,Class B Avionics Tech
-966,62,S,11/12/2019 20:03,11/12/2019 20:04,TRUE,Class B Avionics Tech,Class B Avionics Tech
-837,11,N,11/12/2019 20:09,11/12/2019 22:09,TRUE,Class B Avionics Tech,Class B Avionics Tech
-815,76,A,11/12/2019 20:46,12/12/2019 10:55,TRUE,Pilot,Class B Avionics Tech
-956,75,J,11/12/2019 20:51,12/12/2019 10:38,TRUE,Pilot,Class A Armament Tech
-956,90,W,11/12/2019 20:51,12/12/2019 10:47,FALSE,Pilot,Class B Flight Control Tech
-956,76,A,11/12/2019 20:51,12/12/2019 12:06,TRUE,Pilot,Class B Avionics Tech
-961,74,B,11/12/2019 20:52,11/12/2019 22:04,FALSE,Class B Avionics Tech,Class B Avionics Tech
-921,71,E,11/12/2019 20:56,11/12/2019 22:15,TRUE,Pilot,Class B Avionics Tech
-921,44,A,11/12/2019 20:56,12/12/2019 9:17,TRUE,Pilot,Class A Electricity Tech
-941,74,F,11/12/2019 21:07,12/12/2019 11:46,TRUE,Pilot,Class B Avionics Tech
-941,74,1,11/12/2019 21:07,12/12/2019 11:55,FALSE,Pilot,Class B Avionics Tech
-941,44,B,11/12/2019 21:07,12/12/2019 10:01,TRUE,Pilot,Class A Electricity Tech
-830,74,6,11/12/2019 21:10,11/12/2019 23:48,TRUE,Class B Avionics Tech,Class A Officer
-837,11,G,11/12/2019 21:32,11/12/2019 21:41,TRUE,Class A Heli Struct Sys Tech,Class B Structurer Tech
-837,76,D,11/12/2019 21:32,11/12/2019 22:01,TRUE,Class A Heli Struct Sys Tech,Class B Avionics Tech
-815,15,B,11/12/2019 22:11,12/12/2019 13:28,TRUE,Class A Tech,Class A Airborne Mechanic
-804,15,A,12/12/2019 10:46,12/12/2019 11:33,TRUE,Class A Tech,Class A Officer
-905,75,C,12/12/2019 11:03,12/12/2019 17:03,TRUE,Class A Armament Tech,Class A Armament Tech
-967,13,B,12/12/2019 11:05,12/12/2019 11:06,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-832,0,0,12/12/2019 11:13,12/12/2019 11:14,TRUE,Class B Structurer Tech,Class B Structurer Tech
-832,11,J,12/12/2019 11:13,12/12/2019 14:44,TRUE,Class A Tech,Class B Structurer Tech
-961,44,A,12/12/2019 12:13,12/12/2019 12:22,TRUE,Class A Electricity Tech,Class A Electricity Tech
-935,11,E,12/12/2019 12:45,12/12/2019 14:16,TRUE,Class A Armament Tech,Class A Tech
-830,90,A,12/12/2019 13:31,12/12/2019 19:42,FALSE,Pilot,Class B Flight Control Tech
-830,44,C,12/12/2019 13:31,12/12/2019 17:05,TRUE,Pilot,Class A Electricity Tech
-830,74,6,12/12/2019 13:31,17/12/2019 10:54,TRUE,Pilot,Class B Avionics Tech
-935,11,E,12/12/2019 14:20,12/12/2019 14:21,TRUE,Class A Tech,Class A Tech
-967,62,E,12/12/2019 17:00,12/12/2019 17:01,TRUE,Class B Avionics Tech,Class B Avionics Tech
-834,74,1,12/12/2019 17:18,12/12/2019 20:37,TRUE,Pilot,Class B Avionics Tech
-804,74,E,12/12/2019 21:16,13/12/2019 14:56,FALSE,Pilot,Class B Avionics Tech
-840,63,A,15/12/2019 9:46,15/12/2019 23:12,TRUE,Pilot,Class B Avionics Tech
-840,75,B,15/12/2019 9:46,16/12/2019 15:52,TRUE,Pilot,Class A Tech
-921,11,G,15/12/2019 10:17,18/12/2019 11:24,TRUE,Class A Tech,Class A Tech
-935,14,H,15/12/2019 10:26,16/12/2019 10:14,TRUE,Pilot,Class B Flight Control Tech
-935,62,F,15/12/2019 10:26,15/12/2019 21:16,FALSE,Pilot,Class B Avionics Tech
-966,47,F,15/12/2019 11:04,15/12/2019 14:35,TRUE,Pilot,Class A Heli Struct Sys Tech
-961,90,A,15/12/2019 11:12,15/12/2019 11:13,FALSE,Class B Flight Control Tech,Class B Flight Control Tech
-961,47,F,15/12/2019 14:06,15/12/2019 20:56,TRUE,Pilot,Class A Tech
-910,26,A,15/12/2019 14:56,14/01/2020 15:37,TRUE,Class A Heli Struct Sys Tech,Class A Tech
-921,26,C,15/12/2019 15:28,16/12/2019 16:31,TRUE,Class A Tech,Class A Heli Struct Sys Tech
-961,48,B,15/12/2019 15:47,15/12/2019 15:48,TRUE,Class A Officer,Class A Officer
-935,16,A,15/12/2019 15:53,16/12/2019 12:06,TRUE,Class A Heli Struct Sys Tech,Class A Officer
-804,74,3,15/12/2019 17:01,16/12/2019 11:11,TRUE,Pilot,Class B Avionics Tech
-845,46,D,15/12/2019 18:09,17/12/2019 16:14,TRUE,Pilot,Class A Heli Struct Sys Tech
-941,11,W,15/12/2019 19:39,16/12/2019 18:02,FALSE,Pilot,Class A Electricity Tech
-967,75,A,15/12/2019 20:21,15/12/2019 21:41,TRUE,Pilot,Class A Tech
-845,62,E,15/12/2019 21:09,15/12/2019 21:37,TRUE,Class B Avionics Tech,Class B Avionics Tech
-845,47,F,16/12/2019 9:28,17/12/2019 16:23,TRUE,Class A Tech,Class A Heli Struct Sys Tech
-961,90,A,16/12/2019 11:36,16/12/2019 11:54,FALSE,Class A Heli Struct Sys Tech,Class B Flight Control Tech
-801,76,T,16/12/2019 14:28,16/12/2019 19:39,TRUE,Class A Electricity Tech,Class A Officer
-935,74,5,16/12/2019 14:31,16/12/2019 18:09,TRUE,Pilot,Class B Avionics Tech
-935,12,N,16/12/2019 14:31,16/12/2019 19:01,TRUE,Pilot,Class A Heli Struct Sys Tech
-905,76,F,16/12/2019 14:46,16/12/2019 21:08,TRUE,Pilot,Class B Avionics Tech
-905,90,A,16/12/2019 14:46,16/12/2019 16:04,TRUE,Pilot,Class B Flight Control Tech
-935,22,I,16/12/2019 15:35,16/12/2019 18:57,TRUE,Class A Tech,Class A Heli Struct Sys Tech
-801,44,A,16/12/2019 15:40,16/12/2019 15:41,TRUE,Class A Electricity Tech,Class A Electricity Tech
-832,26,F,16/12/2019 15:44,16/12/2019 19:44,TRUE,Pilot,Class A Electricity Tech
-804,44,A,16/12/2019 15:46,16/12/2019 15:59,TRUE,Class A Electricity Tech,Class A Electricity Tech
-966,90,A,16/12/2019 16:01,17/12/2019 10:13,FALSE,Pilot,Class A Electricity Tech
-966,49,0,16/12/2019 16:01,16/12/2019 23:16,TRUE,Pilot,Class A Electricity Tech
-804,44,C,16/12/2019 16:12,16/12/2019 18:59,TRUE,Class A Electricity Tech,Class A Electricity Tech
-845,11,J,16/12/2019 17:39,17/12/2019 18:11,TRUE,Class A Tech,Class A Tech
-828,11,J,16/12/2019 17:42,23/01/2020 10:32,TRUE,Class A Tech,Class A Tech
-828,11,N,16/12/2019 17:43,26/12/2019 14:46,TRUE,Class A Tech,Class A Armament Tech
-830,62,E,16/12/2019 23:08,16/12/2019 23:10,TRUE,Class B Avionics Tech,Class B Avionics Tech
-840,26,G,17/12/2019 12:46,17/12/2019 12:47,TRUE,Class A Electricity Tech,Class A Electricity Tech
-815,11,W,17/12/2019 13:56,17/12/2019 14:45,TRUE,Class A Electricity Tech,Class A Electricity Tech
-961,48,B,17/12/2019 14:15,17/12/2019 14:40,TRUE,Class B Flight Control Tech,Class A Electricity Tech
-815,11,W,17/12/2019 14:46,17/12/2019 16:59,TRUE,Class A Electricity Tech,Class B Flight Control Tech
-801,90,A,17/12/2019 15:36,17/12/2019 16:23,TRUE,Pilot,Class A Officer
-910,14,M,17/12/2019 15:53,13/01/2020 16:03,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-956,74,1,17/12/2019 16:16,17/12/2019 17:07,TRUE,Pilot,Class A Officer
-910,90,W,17/12/2019 17:07,17/12/2019 17:08,TRUE,Class B Flight Control Tech,Class B Flight Control Tech
-840,12,E,17/12/2019 17:46,17/12/2019 21:25,TRUE,Pilot,Class A Officer
-840,44,C,17/12/2019 17:46,17/12/2019 19:10,TRUE,Pilot,Class A Electricity Tech
-840,74,I,17/12/2019 17:46,17/12/2019 19:03,TRUE,Pilot,Class A Officer
-832,62,E,17/12/2019 17:59,17/12/2019 18:00,TRUE,Class B Avionics Tech,Class B Avionics Tech
-941,74,3,17/12/2019 20:31,18/12/2019 17:09,FALSE,Pilot,Class B Avionics Tech
-,74,3,17/12/2019 20:31,18/12/2019 17:09,FALSE,Pilot,Class B Avionics Tech
-941,75,A,17/12/2019 20:31,18/12/2019 11:06,FALSE,Pilot,Class A Armament Tech
-941,74,4,17/12/2019 20:31,18/12/2019 17:13,TRUE,Pilot,Class B Avionics Tech
-840,90,A,17/12/2019 20:40,17/12/2019 20:43,TRUE,Class A Electricity Tech,Class A Electricity Tech
-935,74,N,17/12/2019 21:09,18/12/2019 22:13,FALSE,Pilot,Class B Avionics Tech
-935,13,B,17/12/2019 21:09,18/12/2019 13:35,TRUE,Pilot,Class A Airborne Mechanic
-935,62,E,17/12/2019 21:09,18/12/2019 21:55,TRUE,Pilot,Class B Avionics Tech
-,62,E,17/12/2019 21:09,18/12/2019 21:55,TRUE,Pilot,Class B Avionics Tech
-,62,E,17/12/2019 21:09,18/12/2019 21:55,TRUE,Pilot,Class B Avionics Tech
-837,49,W,17/12/2019 21:20,17/12/2019 21:23,TRUE,Class A Armament Tech,Class A Armament Tech
-924,11,E,17/12/2019 21:26,17/12/2019 21:27,TRUE,Class B Structurer Tech,Class B Structurer Tech
-905,75,J,18/12/2019 9:59,18/12/2019 10:07,TRUE,Class A Armament Tech,Class A Armament Tech
-837,49,W,18/12/2019 11:37,18/12/2019 11:38,TRUE,Class A Electricity Tech,Class A Electricity Tech
-941,11,E,18/12/2019 12:17,19/12/2019 17:22,TRUE,Class A Tech,Class A Tech
-941,11,E,18/12/2019 12:17,19/12/2019 17:21,TRUE,Class A Tech,Class A Tech
-830,13,W,18/12/2019 13:06,18/12/2019 15:28,TRUE,Pilot,Class A Heli Struct Sys Tech
-830,44,C,18/12/2019 13:06,18/12/2019 14:07,TRUE,Pilot,Class A Electricity Tech
-956,74,5,18/12/2019 14:56,19/12/2019 10:18,FALSE,Pilot,Class B Avionics Tech
-801,75,H,18/12/2019 14:56,20/12/2019 13:35,TRUE,Class A Tech,Class B Structurer Tech
-910,75,D,18/12/2019 15:13,22/12/2019 13:22,TRUE,Class A Armament Tech,Class A Armament Tech
-941,44,B,18/12/2019 15:19,18/12/2019 15:20,TRUE,Class A Electricity Tech,Class A Electricity Tech
-804,74,5,18/12/2019 15:21,19/12/2019 15:24,FALSE,Pilot,Class B Avionics Tech
-804,75,A,18/12/2019 15:21,19/12/2019 11:01,FALSE,Pilot,Class A Tech
-845,75,A,18/12/2019 15:56,18/12/2019 16:50,TRUE,Pilot,Class A Armament Tech
-801,90,A,18/12/2019 16:01,18/12/2019 16:33,TRUE,Class A Electricity Tech,Class B Flight Control Tech
-905,62,E,18/12/2019 16:21,18/12/2019 20:11,TRUE,Pilot,Class B Avionics Tech
-905,75,A,18/12/2019 16:21,18/12/2019 17:00,TRUE,Pilot,Class A Tech
-905,75,A,18/12/2019 16:21,18/12/2019 20:29,FALSE,Pilot,Class A Armament Tech
-905,75,B,18/12/2019 16:21,19/12/2019 9:43,TRUE,Pilot,Class A Tech
-828,14,M,18/12/2019 17:05,18/12/2019 17:14,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-966,26,G,18/12/2019 17:31,18/12/2019 22:04,TRUE,Pilot,Class A Electricity Tech
-828,26,C,18/12/2019 19:31,26/12/2019 13:07,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-967,74,N,18/12/2019 22:16,18/12/2019 22:17,TRUE,Class B Avionics Tech,Class B Avionics Tech
-941,69,1,19/12/2019 9:13,19/12/2019 9:38,TRUE,Class A Tech,Class A Armament Tech
-828,12,A,19/12/2019 10:21,25/12/2019 12:20,TRUE,Class A Heli Struct Sys Tech,Class A Tech
-910,11,C,19/12/2019 11:49,13/01/2020 17:03,TRUE,Class A Airborne Mechanic,Class A Heli Struct Sys Tech
-910,12,A,19/12/2019 11:50,15/01/2020 8:53,TRUE,Class A Airborne Mechanic,Class A Heli Struct Sys Tech
-938,11,W,19/12/2019 12:38,24/12/2019 11:16,TRUE,Class A Electricity Tech,Class A Electricity Tech
-938,26,I,19/12/2019 12:53,19/12/2019 15:34,TRUE,Class A Electricity Tech,Class A Electricity Tech
-845,75,F,19/12/2019 14:44,19/12/2019 15:00,TRUE,Class A Armament Tech,Class A Armament Tech
-938,41,W,19/12/2019 14:48,30/12/2019 7:55,TRUE,Class A Electricity Tech,Class A Electricity Tech
-845,75,F,19/12/2019 15:18,23/12/2019 11:17,TRUE,Class A Armament Tech,Class A Fire Sys Tech
-938,41,V,19/12/2019 15:40,22/12/2019 10:15,TRUE,Class A Electricity Tech,Class A Electricity Tech
-966,62,E,19/12/2019 18:51,19/12/2019 20:35,TRUE,Pilot,Class A Officer
-966,76,D,20/12/2019 9:59,20/12/2019 10:00,TRUE,Class B Avionics Tech,Class B Avionics Tech
-804,74,5,22/12/2019 15:31,23/12/2019 10:52,FALSE,Pilot,Class B Avionics Tech
-804,44,B,22/12/2019 15:31,23/12/2019 10:16,TRUE,Pilot,Class A Electricity Tech
-845,12,B,22/12/2019 15:34,22/12/2019 15:47,TRUE,Class A Electricity Tech,Class B Avionics Tech
-845,44,B,22/12/2019 15:36,22/12/2019 16:04,TRUE,Class A Electricity Tech,Class A Electricity Tech
-845,75,A,22/12/2019 16:10,23/12/2019 12:00,TRUE,Class A Armament Tech,Class A Fire Sys Tech
-845,11,E,22/12/2019 16:17,22/12/2019 16:18,TRUE,Class B Structurer Tech,Class B Structurer Tech
-845,11,J,22/12/2019 16:26,23/12/2019 12:10,TRUE,Class A Heli Struct Sys Tech,Class A Tech
-921,26,C,22/12/2019 17:31,24/12/2019 12:06,TRUE,Class A Heli Struct Sys Tech,Class B Structurer Tech
-840,11,J,23/12/2019 8:46,25/12/2019 10:29,TRUE,Class A Tech,Class A Tech
-840,11,E,23/12/2019 8:49,24/12/2019 16:00,TRUE,Class A Tech,Class A Tech
-834,11,E,23/12/2019 10:45,24/12/2019 10:59,TRUE,Class A Heli Struct Sys Tech,Class A Tech
-837,44,A,23/12/2019 13:37,23/12/2019 14:51,TRUE,Class A Electricity Tech,Class A Electricity Tech
-941,74,1,23/12/2019 13:41,23/12/2019 21:14,FALSE,Pilot,Class B Avionics Tech
-941,13,E,23/12/2019 13:41,23/12/2019 20:16,TRUE,Pilot,Class A Heli Struct Sys Tech
-837,44,A,23/12/2019 14:23,23/12/2019 18:08,TRUE,Class A Electricity Tech,Class A Electricity Tech
-935,51,B,23/12/2019 15:06,23/12/2019 16:27,TRUE,Pilot,Class A Officer
-956,26,G,23/12/2019 16:31,23/12/2019 21:14,TRUE,Pilot,Class A Electricity Tech
-935,74,N,23/12/2019 18:31,24/12/2019 15:50,FALSE,Pilot,Class B Avionics Tech
-935,63,A,23/12/2019 18:31,24/12/2019 11:45,TRUE,Pilot,Class B Avionics Tech
-935,71,G,23/12/2019 18:31,24/12/2019 11:42,TRUE,Pilot,Class B Avionics Tech
-935,14,L,23/12/2019 18:31,31/12/2019 11:47,TRUE,Pilot,Class A Heli Struct Sys Tech
-804,74,5,23/12/2019 21:01,24/12/2019 15:33,FALSE,Pilot,Class B Avionics Tech
-961,75,G,24/12/2019 0:31,24/12/2019 9:40,TRUE,Pilot,Class A Fire Sys Tech
-961,44,A,24/12/2019 0:31,24/12/2019 14:36,TRUE,Pilot,Class A Electricity Tech
-941,11,C,24/12/2019 8:55,24/12/2019 15:31,TRUE,Class B Avionics Tech,Class B Structurer Tech
-832,11,G,24/12/2019 9:02,31/12/2019 11:15,TRUE,Class A Tech,Class A Heli Struct Sys Tech
-830,13,D,24/12/2019 10:22,24/12/2019 10:31,TRUE,Class A Tech,Class A Tech
-804,11,E,24/12/2019 10:28,25/12/2019 12:17,TRUE,Class A Heli Struct Sys Tech,Class B Structurer Tech
-832,11,E,24/12/2019 10:38,24/12/2019 20:43,TRUE,Class A Heli Struct Sys Tech,Class B Structurer Tech
-924,45,B,24/12/2019 10:48,02/01/2020 11:58,TRUE,Class A Tech,Class A Heli Struct Sys Tech
-956,51,A,24/12/2019 11:00,24/12/2019 11:01,TRUE,Class A Electricity Tech,Class A Electricity Tech
-905,90,A,24/12/2019 11:01,24/12/2019 11:05,FALSE,Class B Flight Control Tech,Class B Flight Control Tech
-935,11,W,24/12/2019 11:28,24/12/2019 15:44,TRUE,Class A Electricity Tech,Class B Avionics Tech
-840,26,A,24/12/2019 12:33,24/12/2019 12:45,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-815,11,E,24/12/2019 12:43,24/12/2019 19:34,TRUE,Class B Structurer Tech,Class A Tech
-834,11,E,24/12/2019 13:16,24/12/2019 15:18,TRUE,Class A Armament Tech,Class A Armament Tech
-830,44,A,24/12/2019 14:22,24/12/2019 14:23,TRUE,Class A Electricity Tech,Class A Electricity Tech
-804,74,E,24/12/2019 15:37,24/12/2019 15:38,TRUE,Class B Avionics Tech,Class B Avionics Tech
-941,11,C,24/12/2019 16:20,24/12/2019 20:39,TRUE,Class B Avionics Tech,Class B Structurer Tech
-830,76,F,24/12/2019 21:50,24/12/2019 21:51,TRUE,Class B Avionics Tech,Class B Avionics Tech
-938,74,5,25/12/2019 9:31,29/12/2019 11:08,TRUE,Class B Avionics Tech,Class B Avionics Tech
-832,26,C,25/12/2019 10:36,30/12/2019 10:34,TRUE,Class A Tech,Class A Tech
-828,75,A,25/12/2019 10:47,25/12/2019 13:58,TRUE,Class A Tech,Class A Fire Sys Tech
-832,13,B,25/12/2019 11:00,26/12/2019 9:48,TRUE,Class A Electricity Tech,Class A Electricity Tech
-941,11,C,25/12/2019 11:11,25/12/2019 12:26,TRUE,Class B Avionics Tech,Class B Structurer Tech
-905,44,B,25/12/2019 11:26,25/12/2019 11:27,TRUE,Class A Electricity Tech,Class A Electricity Tech
-832,12,C,25/12/2019 11:33,26/12/2019 21:09,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-832,24,V,25/12/2019 14:21,25/12/2019 14:25,TRUE,Class A Electricity Tech,Class A Electricity Tech
-905,26,D,25/12/2019 15:09,26/12/2019 12:08,TRUE,Class A Tech,Class A Tech
-905,26,C,25/12/2019 15:22,26/12/2019 12:07,TRUE,Class A Tech,Class A Tech
-834,69,A,26/12/2019 2:11,26/12/2019 17:42,TRUE,Pilot,Class A Armament Tech
-834,69,E,26/12/2019 2:11,26/12/2019 14:58,FALSE,Pilot,Class A Armament Tech
-830,11,G,26/12/2019 9:22,26/12/2019 10:50,TRUE,Class A Tech,Class A Tech
-828,11,E,26/12/2019 11:21,23/01/2020 8:57,TRUE,Class A Electricity Tech,Class A Officer
-815,74,1,26/12/2019 12:54,26/12/2019 14:04,FALSE,Pilot,Class B Avionics Tech
-,74,1,26/12/2019 12:54,26/12/2019 14:04,FALSE,Pilot,Class B Avionics Tech
-961,75,B,26/12/2019 15:03,26/12/2019 15:24,TRUE,Class A Tech,Class A Tech
-905,11,E,28/12/2019 21:55,29/12/2019 8:30,TRUE,Class A Tech,Class B Structurer Tech
-966,45,E,29/12/2019 10:06,29/12/2019 11:50,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-938,74,6,29/12/2019 11:09,29/12/2019 19:55,TRUE,Class B Avionics Tech,Class B Avionics Tech
-840,11,G,29/12/2019 11:28,29/12/2019 19:31,TRUE,Class A Tech,Class A Tech
-938,90,A,30/12/2019 7:58,30/12/2019 11:29,TRUE,Class A Heli Struct Sys Tech,Class A Electricity Tech
-910,16,A,30/12/2019 10:47,05/01/2020 21:28,TRUE,Class A Electricity Tech,Class A Electricity Tech
-804,11,E,30/12/2019 11:29,31/12/2019 11:42,TRUE,Class A Electricity Tech,Class A Tech
-840,12,A,30/12/2019 13:11,30/12/2019 17:44,TRUE,Pilot,Class A Heli Struct Sys Tech
-961,14,L,30/12/2019 14:45,05/01/2020 16:00,TRUE,Pilot,Class A Heli Struct Sys Tech
-801,90,W,30/12/2019 15:28,30/12/2019 16:00,TRUE,Class A Electricity Tech,Class B Flight Control Tech
-828,46,A,30/12/2019 15:38,07/01/2020 19:03,TRUE,Pilot,Class A Heli Struct Sys Tech
-828,41,A,30/12/2019 15:40,07/01/2020 21:06,TRUE,Pilot,Class A Heli Struct Sys Tech
-801,76,D,30/12/2019 16:40,30/12/2019 16:41,TRUE,Class B Avionics Tech,Class B Avionics Tech
-941,71,E,30/12/2019 17:16,30/12/2019 23:09,TRUE,Pilot,Class B Avionics Tech
-830,15,B,30/12/2019 19:57,30/12/2019 20:36,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-840,15,B,30/12/2019 20:10,30/12/2019 20:32,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-828,46,A,30/12/2019 20:33,08/01/2020 19:00,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-828,26,E,30/12/2019 20:35,09/01/2020 12:48,TRUE,Class A Heli Struct Sys Tech,Class A Heli Struct Sys Tech
-956,69,K,30/12/2019 23:46,31/12/2019 12:02,TRUE,Pilot,Class A Armament Tech
-956,74,1,30/12/2019 23:46,31/12/2019 18:05,TRUE,Pilot,Class B Avionics Tech
-956,69,1,30/12/2019 23:46,31/12/2019 12:01,TRUE,Pilot,Class A Armament Tech
-941,12,C,31/12/2019 10:34,31/12/2019 19:52,TRUE,Class A Armament Tech,Class A Heli Struct Sys Tech
-806,75,B,31/12/2019 15:09,31/12/2019 15:13,TRUE,Class A Tech,Class A Tech
-830,11,J,31/12/2019 16:10,31/12/2019 19:25,TRUE,Class A Heli Struct Sys Tech,Class A Tech
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
